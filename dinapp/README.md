@@ -1,16 +1,3 @@
 # dinapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+// La aplicación te ayuda a saber que dinosaurio eres según tu nombre. Se tomo un borrador de chatgpt y pude agregarle imagenes para que 
+//cuando se despliegue el nombre del dinosaurio que eres, tambien despliegue la imagen de dicho dinosaurio (inserte carita feliz)
